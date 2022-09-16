@@ -1,6 +1,6 @@
 FROM alpine:edge
 
-ARG AUUID="eccf3f48-c336-4711-b5b2-a7894ca0e8e3"
+ARG AUUID="69ba471b-0b4f-4bbf-9810-87045525658b"
 ARG CADDYIndexPage="https://www.free-css.com/assets/files/free-css-templates/download/page276/ocean-vibes.zip"
 ARG ParameterSSENCYPT="chacha20-ietf-poly1305"
 ARG PORT=8080
